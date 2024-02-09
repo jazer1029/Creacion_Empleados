@@ -1,0 +1,15 @@
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\bin\Debug\net6.0\Creacion_Empleados.exe
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\bin\Debug\net6.0\Creacion_Empleados.deps.json
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\bin\Debug\net6.0\Creacion_Empleados.runtimeconfig.json
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\bin\Debug\net6.0\Creacion_Empleados.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\bin\Debug\net6.0\Creacion_Empleados.pdb
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.csproj.AssemblyReference.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.AssemblyInfoInputs.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.AssemblyInfo.cs
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\refint\Creacion_Empleados.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.pdb
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\Creacion_Empleados.genruntimeconfig.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Creacion_Empleados\obj\Debug\net6.0\ref\Creacion_Empleados.dll

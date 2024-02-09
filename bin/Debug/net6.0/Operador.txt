@@ -1,0 +1,11 @@
+Cedula : 12312321 
+Codigo : JJP6927 
+Nombre : Perez 
+Apellido : Peralta 
+Email : jajudasdn.com 
+Telefono : 1241232131 
+Departamento : JJPPK 
+Cargo :KPPJJ 
+Precio por Horas : 4
+Horas Trabajadas :  5 
+Salario Neto : 20

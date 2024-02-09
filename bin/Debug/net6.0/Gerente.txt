@@ -1,0 +1,11 @@
+Cedula : 123123123 
+Codigo : HGH9236 
+Nombre : jjjj 
+Apellido : ppppp 
+Email : adqdsada.com 
+Telefono : 12e3213213123 
+Departamento : HGHG 
+Cargo : GHGHG 
+Precio por Horas : 8
+Horas Trabajadas :  8 
+Salario Neto : 64

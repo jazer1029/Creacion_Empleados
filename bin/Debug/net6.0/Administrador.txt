@@ -1,0 +1,11 @@
+Cedula : 123123213 
+Codigo : JJJ4876 
+Nombre : Juan 
+Apellido : pepe 
+Email : jauds.com 
+Telefono : 12312321 
+Departamento : JJJHH 
+Cargo : HHHJJJ 
+Precio por Horas : 8
+Horas Trabajadas :  9 
+Salario Neto : 72
