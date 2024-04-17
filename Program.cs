@@ -4,21 +4,10 @@ using System;
 
 namespace MyApplication
 {
-    //        ****          *      ****
-    //      *      *        *    *      *
-    //     *        *       *   *        *
-    //     *        *       *   *        *
-    //     *     ** *       *   *     ** *
-    //      *    * *   *    *    *    * *
-    //        ****     *    *      ****
-    //                   * * 
-
-    //En visual studio community no se me refleja el guardado en los Json
-    //Ejecutarlo en Visual Code ahi si funciona
 
     class Program
     {
-        //Para cumpli el principio de Responsabilidad unica cree diferentes clases.
+        //Para cumplir el principio de Responsabilidad unica cree diferentes clases.
 
         static void Main(string[] args)
         {
